@@ -1,0 +1,49 @@
+{
+  "total_instances": 2,
+  "total_time_seconds": 48.54928779602051,
+  "results": {
+    "tsp_10": {
+      "instance_name": "tsp_10",
+      "num_cities": 10,
+      "optimal_tour": [
+        0,
+        4,
+        1,
+        6,
+        5,
+        8,
+        2,
+        7,
+        3,
+        9
+      ],
+      "optimal_distance": 2641.3887564142315,
+      "solver": "brute_force_recursive",
+      "computation_time_seconds": 0.02520012855529785
+    },
+    "tsp_15": {
+      "instance_name": "tsp_15",
+      "num_cities": 15,
+      "optimal_tour": [
+        0,
+        4,
+        1,
+        9,
+        13,
+        7,
+        3,
+        10,
+        12,
+        11,
+        8,
+        2,
+        6,
+        5,
+        14
+      ],
+      "optimal_distance": 3059.3004599707665,
+      "solver": "brute_force_recursive",
+      "computation_time_seconds": 48.522644996643066
+    }
+  }
+}

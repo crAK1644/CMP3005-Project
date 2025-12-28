@@ -1,0 +1,19 @@
+{
+  "instance_name": "tsp_10",
+  "num_cities": 10,
+  "optimal_tour": [
+    0,
+    4,
+    1,
+    6,
+    5,
+    8,
+    2,
+    7,
+    3,
+    9
+  ],
+  "optimal_distance": 2641.3887564142315,
+  "solver": "brute_force_recursive",
+  "computation_time_seconds": 0.02520012855529785
+}

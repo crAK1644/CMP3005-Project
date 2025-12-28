@@ -1,0 +1,40 @@
+{
+  "instance_name": "tsp_15",
+  "num_cities": 15,
+  "solver": "ant_colony_optimization",
+  "best_tour": [
+    9,
+    13,
+    7,
+    3,
+    10,
+    12,
+    11,
+    8,
+    2,
+    6,
+    5,
+    14,
+    0,
+    4,
+    1
+  ],
+  "best_distance": 3059.3004599707665,
+  "avg_distance": 3059.300459970766,
+  "all_distances": [
+    3059.3004599707665,
+    3059.3004599707665,
+    3059.3004599707665
+  ],
+  "computation_time_seconds": 0.12389826774597168,
+  "parameters": {
+    "alpha": 1.0,
+    "beta": 3.0,
+    "rho": 0.1,
+    "q": 100,
+    "max_iterations": 150,
+    "num_runs": 3
+  },
+  "optimal_distance": 3059.3004599707665,
+  "approximation_ratio": 1.0
+}
