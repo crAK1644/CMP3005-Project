@@ -1,0 +1,38 @@
+{
+  "instance_name": "tsp_15",
+  "num_cities": 15,
+  "solver": "simulated_annealing",
+  "best_tour": [
+    8,
+    11,
+    12,
+    10,
+    3,
+    7,
+    13,
+    9,
+    1,
+    4,
+    0,
+    14,
+    5,
+    6,
+    2
+  ],
+  "best_distance": 3059.3004599707665,
+  "avg_distance": 3059.3004599707665,
+  "all_distances": [
+    3059.3004599707665,
+    3059.3004599707665,
+    3059.3004599707665,
+    3059.3004599707665,
+    3059.3004599707665
+  ],
+  "total_iterations": 276245,
+  "computation_time_seconds": 0.3342111110687256,
+  "parameters": {
+    "initial_temp": 10000,
+    "cooling_rate": 0.9995,
+    "num_runs": 5
+  }
+}
